@@ -23,7 +23,7 @@ jobs:
 
       - name: Configure Databricks CLI
         run: |
-          databricks configure --host ${{ secrets.DATABRICKS_HOST }} --token ${{ secrets.DATABRICKS_TOKEN }}
+           databricks auth login --host ${{ secrets.DATABRICKS_HOST }} 
 
       - name: List Repo Contents (Example)
         run: |
