@@ -19,7 +19,7 @@ jobs:
           python-version: "3.9"
 
       - name: Install Databricks CLI
-        run: pip install databricks-cli
+        run: pip install --upgrade databricks-cli
 
       - name: Configure Databricks CLI
         run: |
