@@ -27,7 +27,8 @@ jobs:
 
       - name: List Repo Contents (Example)
         run: |
-          databricks workspace ls /Repos/Users/${{ secrets.DATABRICKS_USER }}/my_repo
+          databricks workspace ls /Repos/Users/${{ secrets.DATABRICKS_USER }}/databricks-autoloader
+
 
         env:
           DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
