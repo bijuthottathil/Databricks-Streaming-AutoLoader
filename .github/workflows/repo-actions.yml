@@ -23,7 +23,7 @@ jobs:
 
       - name: Configure Databricks CLI
         run: |
-          databricks configure --host ${{ secrets.DATABRICKS_HOST }} --token ${{ secrets.DATABRICKS_TOKEN }}
+          databricks configure --host https://adb-918245509424201.1.azuredatabricks.net --token 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
 
       - name: List Repo Contents (Example)
         run: |
