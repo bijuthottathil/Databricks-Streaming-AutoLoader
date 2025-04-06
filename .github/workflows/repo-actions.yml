@@ -26,10 +26,7 @@ jobs:
            pip install pytest setuptools wheel
 
 
-      - name: List Repo Contents (Example)
-        run: |
-          databricks workspace ls /Repos/Users/${{ secrets.DATABRICKS_USER }}/databricks-autoloader
-
+     
 
         env:
           DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
