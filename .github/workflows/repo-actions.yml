@@ -39,4 +39,4 @@ jobs:
         env:
           DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
           DATABRICKS_TOKEN: ${{ secrets.DATABRICKS_TOKEN }}
-          REPO_PATH: /Workspace/Users/bijusoft@hotmail.com/databricks-autoloader
+          REPO_PATH: /Repos/Users/bijusoft@hotmail.com/databricks-autoloader
