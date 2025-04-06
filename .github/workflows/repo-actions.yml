@@ -32,8 +32,9 @@ jobs:
       
       - name: Update Databricks Git folder
         run: |
-          databricks repos update ${{env.REPO_PATH}} --branch "${{ steps.extract_branch.outputs.branch }}"
-     
+          databricks repos update --path /Workspace/Users/bijusoft@hotmail.com/databricks-autoloader --branch "main"
+          
+         
 
         env:
           DATABRICKS_HOST: ${{ secrets.DATABRICKS_HOST }}
