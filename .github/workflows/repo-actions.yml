@@ -32,7 +32,7 @@ jobs:
       
       - name: Update Databricks Git folder
         run: |
-          databricks repos update --path /Workspace/Users/bijusoft@hotmail.com/databricks-autoloader --branch "main"
+          databricks repos update --path /Repos/Users/bijusoft@hotmail.com/databricks-autoloader --branch "main"
           
          
 
