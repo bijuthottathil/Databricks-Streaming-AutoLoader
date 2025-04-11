@@ -90,5 +90,57 @@ Only key parts of Bronze , Silver , Gold and workflow are highlighted here
 
 ![image](https://github.com/user-attachments/assets/907bcb3a-3224-404c-a932-c222920019f5)
 
+![image](https://github.com/user-attachments/assets/5752907f-6b1f-4108-a37c-bf1c609c43c9)
+
+![image](https://github.com/user-attachments/assets/0cf39541-6e03-4c40-a235-99c20686956e)
+
+
+
+Workflow schedule to run 3 notebooks
+
+![image](https://github.com/user-attachments/assets/bb38ac18-2d9e-4d4f-a7e8-18ae3387e796)
+
+![image](https://github.com/user-attachments/assets/d2223d54-288c-4ca7-af28-8d38f23b4a6c)
+
+Execution status of workflow
+
+![image](https://github.com/user-attachments/assets/e461aa58-3299-473e-8b59-03a938595102)
+
+
+
+
+I added few more roads and traffic csv files in landing folder and running job
+
+![image](https://github.com/user-attachments/assets/ff0c4f97-18f0-45f2-ae10-ed07a83700cc)
+
+![image](https://github.com/user-attachments/assets/ad112f79-7949-4919-8cfe-c54a45af6c23)
+![image](https://github.com/user-attachments/assets/3fc4d670-8cc7-49a4-b928-adfcd5379f57)
+
+![image](https://github.com/user-attachments/assets/1f3864f0-5bc8-448f-b395-5fd7e37bb759)
+
+Job is completed
+
+![image](https://github.com/user-attachments/assets/30cc37ba-e065-4b00-867f-99e943f7c8b5)
+
+![image](https://github.com/user-attachments/assets/69b52dc6-8729-4603-bac7-907af8098865)
+
+You can see new count in 2 gold tables
+
+![image](https://github.com/user-attachments/assets/49b62518-8401-4cc0-9ce1-3f05ecc32311)
+
+
+
+
+Just for awarness, showing checkpoint folder in Azure to understand contents
+
+![image](https://github.com/user-attachments/assets/655d8d70-915c-4ee1-85d0-4297bbc66628)
+
+
+In case if you want to rerun the pipe line with fresh data, please make sure remove checkpoint folder ( this is not recommended in production)
+
+
+
+
+
 
 
