@@ -35,3 +35,16 @@ Azure Roles
 Databricks Workspace Structure
 
 ![image](https://github.com/user-attachments/assets/ffb82ecc-4c1d-4ad1-8c8f-7f8c148ca1ea)
+
+
+Execute below files in the order after uploading csv files in landing folder
+
+![image](https://github.com/user-attachments/assets/c9807e2b-5871-498e-9c5c-5f22637c3b62)
+
+
+![image](https://github.com/user-attachments/assets/34847d88-bd66-4428-94f0-c7e9b3f0ad09)
+
+![image](https://github.com/user-attachments/assets/ee215a16-e74f-48b9-84f5-1fc7f87d3017)
+
+
+
