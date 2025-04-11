@@ -1,6 +1,14 @@
-# Databricks-Autoloader
+# Load Stream data to delta lake using Autoloader in Databricks 
+  
+  
+   ![image](https://github.com/user-attachments/assets/8d025812-fff0-4998-847d-98693146aa7a)
+
 
 Designed and implemented a medallion architecture on Azure Databricks, using Unity Catalog for data governance and Azure Data Lake Gen2 for storage. Created schemas with Spark SQL, ingested data from ADLS into the Bronze layer, and transformed it into Silver and Gold layers to improve data quality and accessibility for downstream use cases.
+
+
+
+
 
 Technologies Used
 Azure Datapricks
