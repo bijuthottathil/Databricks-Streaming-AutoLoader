@@ -44,6 +44,8 @@ Databricks Workspace Structure
 
 ![image](https://github.com/user-attachments/assets/ffb82ecc-4c1d-4ad1-8c8f-7f8c148ca1ea)
 
+![image](https://github.com/user-attachments/assets/d86c7ef2-78c9-4fee-97d2-7a6208a3022c)
+
 
 Execute below files in the order after uploading csv files in landing folder
 
